@@ -1,6 +1,6 @@
 # Aluno: Ian Alves Sousa
 # DB1 Start - Funções
-# Exercício 6 - Escreva um programa Python que execute uma string que contenha um código Python.
+# Exercício 7 - Escreva um programa Python que execute uma string que contenha um código Python.
 
 #A função recebe uma string que contem um código Python e o executa
 def Python(string : str):

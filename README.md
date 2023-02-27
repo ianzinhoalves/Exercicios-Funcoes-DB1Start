@@ -38,8 +38,6 @@ Os Exercícios propostos foram:
 
 10 - Escreva uma função que imprima as primeiras n linhas do triângulo de pascal. 
 
-Quando terminar a lista vou colocar a ordem que foi executado
-
 ## 🖇️ Colaborando
 
 Colabore com meu aprendizado! Se tiver algo que eu possa melhorar ou que você pode me ensinar, faço questão de querer aprender. Me mande links, novas ideias e como posso aprender mais e me desenvolver nessa área, estou sempre aberto a aprender!!!!

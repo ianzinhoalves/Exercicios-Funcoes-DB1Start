@@ -18,7 +18,25 @@ A ideia dos exercícios é a fixação do conteúdo no Phyton. Busquei realizá-
 
 Os Exercícios propostos foram:
 
-Quando terminar a lista vou colocar a ordem que foi executado
+1 - Escreva um programa que execute uma função que encontre o maior número de uma lista passada por parâmetro.
+
+2 - Escreva um programa que execute uma função que some todos os itens de uma lista passada por parâmetro.
+
+3 - Escreva um programa que execute uma função que multiplique todos os números de uma lista passada por parâmetro.
+
+4 - Escreva um programa que execute uma função que retorne o inverso de uma string passada por parâmetro
+
+5 - Escreva um programa que execute uma função que calcule o fatorial de um número passado por parâmetro.
+
+6 - Escreva um programa que execute uma função que conte o número de letras maiúsculas e minúsculas de um texto e que ao final, chame outra função para imprimir o resultado.
+
+7 - Escreva um programa Python que execute uma string que contenha um código Python.
+
+8 - Escreva um programa que execute uma função que receba um número informado no console como parâmetro e verifique se o número informado é primo ou não.
+
+9 - Escreva um programa que execute uma função que valide se o número informado é um número perfeito ou não.
+
+10 - Escreva uma função que imprima as primeiras n linhas do triângulo de pascal. 
 
 ## 🖇️ Colaborando
 
